@@ -1,3 +1,2 @@
-int add = 10 + 20;
-
-if(add > 10){print "greater"}
+int main()
+int abc;
